@@ -1,2 +1,53 @@
+body {
+    background-color:darkorange;
+    text-align: center;
+    color:black;
+}
 
-/*  Put your CSS Here */
+h1 {
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    border: solid 10px;
+
+}
+
+h2 {
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    border: solid 10px ;
+}
+
+h3 {
+border-radius: 100px;
+border: solid 10px orangered;
+font-family: Papyrus;
+
+}
+
+p {
+    text-align: center;
+
+}
+
+.GroupElement {
+    background-color:black;
+    color: orange;
+    border-radius: 10px;
+    width: 250px;
+    text-align:center;
+
+}
+
+.FontAtt {
+    font-style: italic;
+}
+
+img {
+    border-radius: 0 100px 0 100px;
+    border: solid 5px black;
+    height: 300px;
+    width: 500px;
+    padding: 30px;
+    margin: 10px;
+}
